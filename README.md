@@ -9,7 +9,6 @@ Beginner Programming learning process and exercises
 
 - [My first website](https://github.com/EstefaniLeon/HTML5-y-CSS3/tree/master/Mi-primera-pagina-web)
 - [Built With 🛠️](#built-with-🛠️)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- BUILD WITH -->
@@ -21,11 +20,6 @@ _Technologies used in the project:_
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HTML5](https://es.wikipedia.org/wiki/HTML5)
 - [CSS3](https://es.wikipedia.org/wiki/CSS#CSS3)
-
-## Acknowledgements
-
-- [HTML, CSS y Javascript, ¿cuáles son las diferencias?](https://www.aluracursos.com/blog/html-css-javascript-cuales-son-las-diferencias)
-- [HTML5 y CSS3 parte 1: Mi primera página web](https://www.aluracursos.com/curso-online-html5-css3-primera-pagina-web)
 
 <!-- CONTACT -->
 
