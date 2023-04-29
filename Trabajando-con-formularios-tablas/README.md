@@ -1,4 +1,4 @@
-<h1 align="center">HTML5 y CSS3</h1>
+<h1 align="center">Working with forms and tables</h1>
 
 <div align="center">
 Beginner Programming learning process and exercises
@@ -7,10 +7,8 @@ Beginner Programming learning process and exercises
 
 ## Table of Contents
 
-- [My first website](https://github.com/EstefaniLeon/HTML5-y-CSS3/tree/master/Mi-primera-pagina-web)
-- [Positioning, lists and navigation](https://github.com/EstefaniLeon/HTML5-y-CSS3/tree/master/Posicionamiento-listas-navegaci%C3%B3n)
-- [Working with forms and tables](https://github.com/EstefaniLeon/HTML5-y-CSS3/tree/master/Trabajando-con-formularios-tablas)
 - [Built With 🛠️](#built-with-🛠️)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- BUILD WITH -->
@@ -22,6 +20,11 @@ _Technologies used in the project:_
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HTML5](https://es.wikipedia.org/wiki/HTML5)
 - [CSS3](https://es.wikipedia.org/wiki/CSS#CSS3)
+
+
+## Acknowledgements
+
+- [HTML5 y CSS3 parte 3: Trabajando con formularios y tablas](https://www.aluracursos.com/curso-online-html5-css3-formularios-tablas)
 
 <!-- CONTACT -->
 
